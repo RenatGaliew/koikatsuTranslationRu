@@ -1,7 +1,0 @@
-ラブホテル=Love Hotel
-カラオケ=Karaoke Room
-教会=Church
-満員電車=Crowded Train
-電車=Train
-公園=Park
-教会イベント=Church Event

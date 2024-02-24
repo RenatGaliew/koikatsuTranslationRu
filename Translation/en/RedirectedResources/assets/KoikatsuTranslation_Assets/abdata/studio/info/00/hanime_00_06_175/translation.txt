@@ -1,3 +1,0 @@
-ループIN=Loop Start
-ループ=Loop
-ループOUT=Loop End

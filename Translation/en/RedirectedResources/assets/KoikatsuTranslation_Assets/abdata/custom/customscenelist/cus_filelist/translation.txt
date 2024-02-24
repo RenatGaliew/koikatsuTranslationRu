@@ -1,2 +1,0 @@
-キャラ一覧=Select A Character
-コーディネート一覧=Clothing Sets List

@@ -1,2 +1,0 @@
-「俺のこと好き？」=“Do you like me?”
-「[H]、好きだよ」=“[H], I like you.”
