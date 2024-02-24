@@ -1,0 +1,5 @@
+「そうだ。少し寄り道してもいいかな？」=“Right. Mind if we take a detour?”
+「構わないけれど、どこに寄るのかしら？」=“Not really, but where are we going?”
+「雑貨屋。欲しいものがあって」=“The general store. Something I wanna grab.”
+「雑貨って……いかがわしいもの？」=“The general... Something suspicious?”
+「違うって！」=“You're misunderstanding it!”

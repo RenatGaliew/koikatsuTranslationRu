@@ -1,0 +1,4 @@
+「……えっ？　なん、で……？」=“...Eh--? Wh, y...?”
+「……ごめん」=“...Sorry.”
+「なんで……私、[P]に嫌われるようなことした？」=“Why... did I, do something to make you hate me?”
+「……ひどいよ、そんなの……捨てないで……」=“...This is, too cruel... don't throw me, away...”

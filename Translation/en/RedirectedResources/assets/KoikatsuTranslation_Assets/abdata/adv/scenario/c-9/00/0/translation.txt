@@ -1,0 +1,5 @@
+女の子=Girl
+部員Ａ=Club Member A
+部員Ｂ=Club Member B
+部員Ｃ=Club Member C
+桜=Sakura

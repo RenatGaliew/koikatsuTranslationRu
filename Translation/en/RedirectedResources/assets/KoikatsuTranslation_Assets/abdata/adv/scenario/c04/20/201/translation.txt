@@ -1,0 +1,2 @@
+こどもＡ=Child A
+こどもＢ=Child B

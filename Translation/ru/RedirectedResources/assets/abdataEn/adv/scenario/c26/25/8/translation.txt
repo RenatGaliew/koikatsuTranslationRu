@@ -1,0 +1,5 @@
+「……うん、いいよ」=“...Yeah, okay.”
+「そうだよね。けどそれでも……って、いいの！？」=“Of course. Even so, I just had to... wait, you're fine with it!?”
+「……したくないの？」=“...You don't wanna do it?”
+「いや、したいけど……本当にいいの？」=“No, I do but... you sure you're fine with it?”
+「……うん。あなたとなら……いい、よ」=“...Yeah. If it's with you... I don't, mind.”

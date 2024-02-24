@@ -1,0 +1,5 @@
+「へえ、色々あるんだね」=“Hoh, there's all sorts, huh?”
+「私は……バナナクレープが食べたい」=“I wanna... eat a banana crepe.”
+「うん、いいよ」=“Yeah, alright.”
+「……楽しかった、ありがとう」=“...That was fun, thanks.”
+（よかった、喜んでもらえたみたいだ）=(Great, looks like she enjoyed it.)

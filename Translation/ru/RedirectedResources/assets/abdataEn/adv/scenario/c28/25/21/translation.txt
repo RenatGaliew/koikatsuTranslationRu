@@ -1,0 +1,3 @@
+「おはようなのじゃ。ちょっと寝癖がついておるぞ」=“Good morning. You have a bit of bed hair sticking out.”
+「え？　マジで？」=“Eh? For real?”
+「教室に行ったらわしが直してやろう。感謝するのじゃぞ」=“I shall fix it for you, once we reach the classroom. Be grateful.”

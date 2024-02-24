@@ -1,0 +1,2 @@
+「このわたくしを連れ回したい気持ちはよくわかりますわ。よろしくてよ！」=“I understand how much you want to drag me around with you. Very well!”
+「ありがとう。じゃ、付いてきて」=“Thank you. Well, follow me.”

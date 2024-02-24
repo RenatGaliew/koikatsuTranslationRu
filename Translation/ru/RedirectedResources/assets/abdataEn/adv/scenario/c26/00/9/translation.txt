@@ -1,0 +1,3 @@
+「……デート？　私と？」=“...A date? With me?”
+「ど、どうかな」=“H-How about it?”
+「……うん、いいよ。行ってみたい」=“...Yeah, sure. I wanna go.”

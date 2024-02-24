@@ -1,0 +1,3 @@
+「あ、おはよっ、[Pあだ名]」=“Ah, morning--, [Pあだ名].”
+「あ……おはよう、[Hあだ名]」=“Ah... morning, [Hあだ名].”
+「えへへ……照れちゃうけど、恋人同士って感じがして、いいね♪」=“Eheheh... it's really making me blush but, it feels kinda nice, all romantic♪”

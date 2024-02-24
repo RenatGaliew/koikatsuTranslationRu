@@ -1,0 +1,11 @@
+「よ、ようやくお昼……」=“F-finally lunch time...”
+「あんた、動物は好き？」=“Hey, do you like animals?”
+「もしかしてだけど……食べるの好きだったりする？」=“Could it be... that you like eating a lot?”
+「私もそんなに……そもそもすぐお腹空いちゃうこの体質がイヤ」=“I'm like that too... I don't really have the stomach for it in the first place.”
+「あんた、体を動かすのは好きな方？」=“Do you like moving your body?”
+「あのさ……おしゃれってする……？」=“Hey... are you into fashion?”
+「ふぅん……。答えてくれてありがと」=“Huh... Thanks for answering.”
+「ごめん、もう時間だから……でもあんたさえ良かったら、また話しかけてくれていいわよ」=“Sorry, it's already time... but if you're fine with it, we can talk later.”
+「コイカツ部に興味ない？　よかったら入ってほしいな」=“Are you interested in the Koikatsu club? You can join us if you like.”
+「俺のこと好き？」=“Do you like me?”
+「[H]、好きだよ」=“[H], I like you.”

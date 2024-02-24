@@ -1,0 +1,3 @@
+「……あら、もう起きてしまわれたの？」=“...Oh my, already awake?”
+「ごきげんよう」=“Good day.”
+「ごきげんよう……ふふ、先に言われてしまいましたわね。わたくしが一番に言おうと思っていたのに……」=“Good day... fufuh, I see you got one over me. Here I was planning on saying it to you first...”

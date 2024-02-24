@@ -1,0 +1,3 @@
+「……ここが、[P]の部屋……」=“...This is, your room...”
+「……なんか、嬉しい」=“...Makes me, kinda happy.”
+「[P]、私としたいの？　……うん、いいよ。私も触れ合いたいから……」=“You wanna do it with me, [P]? ...Yeah, okay. I want you to touch you too, so...”

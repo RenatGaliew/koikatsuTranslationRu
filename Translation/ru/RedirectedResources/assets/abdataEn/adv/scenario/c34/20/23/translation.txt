@@ -1,0 +1,8 @@
+「Ｗｅｌｌ……Ｕｍｍ……」=“<Well... Umm...>”
+（ん？　[H名]元気ないな。どうしたんだ？）=(Hm? [H名] seems pretty down. What's the matter?)
+「[H名]？」=“[H名]?”
+「Ｏｈ、エット……奇遇？　デスネ？」=“<Oh>, erm... Coincidence? Desu?”
+「あ、それカップケーキ？　調理実習で作ったの？」=“Ah, are those cupcakes? Did you make them for cooking class?”
+「……Ｙｅｓ。デモ、チョト、失敗してしまいマシテ……コゲコゲのトコロありマス」=“...<Yes>. But, I still messed up a bit... They're kinda burnt.”
+「焼きすぎちゃったんだ。でもちょっとだけだし、少し分けてほしいなぁ」=“They're overcooked, yes. But, it's just a tiny bit, so I'd like to have some of it.”
+「ほ、ホントデスカ！？　じゃあ、全部アゲマス♡　デモ次は、Ｐｅｒｆｅｃｔなモノ作りマスカラ、楽しみしててクダサーイ♡」=“R-really!? Then, you can have them all♡ But next time, I'll make them <perfect>, so look forward to it♡”

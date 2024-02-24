@@ -1,0 +1,4 @@
+「……ね、ねぇ[H]？」=“...H-Hey, [H]?”
+「……なに？　[P]」=“...What, [P]?”
+「えっと……そんなにくっつかれると動きにくいんだけど……」=“Erhm... it's kinda hard to move with you grabbing onto me for dear life like that...”
+「……ダメ。[P]は、私と一緒に運動するの」=“...Doesn't matter. You're going to, exercise with me. Together.”

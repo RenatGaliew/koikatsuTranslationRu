@@ -1,0 +1,4 @@
+「あなた、この間転入してきた子ね」=“You're that boy who transfered our school, right?”
+「えっ？　はい、そうです」=“Eh? Yes, that's right.”
+「私は橋本麗奈。数学の授業を担当する他に、指導教諭も務めているわ」=“I'm Hashimoto Reina. In addition to being your mathematics teacher, I'm also the school counselor.”
+麗奈=Reina

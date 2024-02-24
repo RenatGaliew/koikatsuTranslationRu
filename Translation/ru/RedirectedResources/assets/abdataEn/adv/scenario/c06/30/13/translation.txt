@@ -1,0 +1,3 @@
+「うふふ、喜んでお受けいたします」=“Ufufuh, gladly.”
+「やった！　でも、大丈夫？　[H]の家ってそういうの厳しそうだから」=“Yay! But, you sure? I feel like your family wouldn't approve.”
+「そうですね、恐らくは反対されると思います。ですが、私が心に決めた方ですから、説得してみせます」=“Indeed, they'd likely be against it. However, you are the man I've chosen, so I shall convince them, one way or the other.”

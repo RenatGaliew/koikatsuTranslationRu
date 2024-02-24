@@ -1,0 +1,3 @@
+「……あら、もう起きてしまわれたの？」=“...Oh, you're already up?”
+「ごきげんよう」=“How do you do?”
+「ごきげんよう……ふふ、先に言われてしまいましたわね。わたくしが一番に言おうと思っていたのに……」=“How do you do... fufu, I see you got one over me. I was planning on being the first to greet you...”

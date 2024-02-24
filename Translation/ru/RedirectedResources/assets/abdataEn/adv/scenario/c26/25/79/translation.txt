@@ -1,0 +1,3 @@
+「……涼しい」=“...So cool.”
+「屋上でお昼っていうのも良いよね」=“Eating lunch at the roof's pretty nice too, isn't it?”
+「……うん」=“...Yeah.”

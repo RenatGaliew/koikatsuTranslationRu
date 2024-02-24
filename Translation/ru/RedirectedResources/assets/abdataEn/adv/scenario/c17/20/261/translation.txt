@@ -1,0 +1,3 @@
+「どう？　気持ちよかったかしら？」=“How is it? Did it feel good?”
+「はい、とても」=“Yes, very good.”
+「……真顔で言うのはやめなさい」=“...Don't say it with such a straight face.”

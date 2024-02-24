@@ -1,0 +1,4 @@
+「いつもお昼はどこで食べてるの？」=“Where do you usually eat lunch?”
+「もうお昼は終わった？　先生はこれからなの」=“Are you done having lunch? I'll be starting mine soon.”
+「男の子なんだから、きっとたくさん食べるのよね？　先生はダイエット中で……サラダだけです……」=“Boys eat a lot, don't they? I'm in the middle of a diet... I can only eat salad...”
+野乃花=Nonoka
