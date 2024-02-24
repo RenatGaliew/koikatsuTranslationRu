@@ -5,9 +5,16 @@
     <TargetFramework>net8.0-windows</TargetFramework>
     <RootNamespace>Translate_Koikatsu</RootNamespace>
     <Nullable>enable</Nullable>
+	  <PublishSingleFile>true</PublishSingleFile>
+	  <SelfContained>true</SelfContained>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>icon_vhG_icon.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icon_vhG_icon.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="jose-jwt" Version="4.1.0" />

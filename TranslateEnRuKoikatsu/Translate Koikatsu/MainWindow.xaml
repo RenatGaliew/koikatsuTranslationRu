@@ -11,7 +11,7 @@
         xmlns:Dialog="clr-namespace:MahApps.Metro.Controls.Dialogs;assembly=MahApps.Metro"
         xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
         d:DataContext="{d:DesignInstance Type=translateEnRuKoikatsu:MainWindowViewModel}"
-        Title="Словарь фраз Koikatsu"  Height="450" Width="800">
+        Title="Словарь фраз Koikatsu"  Height="550" Width="1050">
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"></BooleanToVisibilityConverter>
     </Window.Resources>
@@ -71,10 +71,10 @@
                                   CanUserResizeColumns="False"
                                   AutoGenerateColumns="False" >
                             <DataGrid.Columns>
-                                <DataGridTextColumn IsReadOnly="False" Header="Japan" Width="350" Binding="{Binding Ja, Mode=TwoWay}"/>
-                                <DataGridTextColumn Header="Russian" Width="900" Binding="{Binding Ru, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" >
+                                <DataGridTextColumn IsReadOnly="False" Header="Японском" Width="350" Binding="{Binding Ja, Mode=TwoWay}"/>
+                                <DataGridTextColumn Header="Русский" Width="900" Binding="{Binding Ru, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" >
                                 </DataGridTextColumn>
-                                <DataGridTemplateColumn Header="Save Button" Width="150">
+                                <DataGridTemplateColumn Header="Сохранить" Width="150">
                                     <DataGridTemplateColumn.CellTemplate>
                                         <DataTemplate DataType="{x:Type translateEnRuKoikatsu:WordAndFileViewModel}">
                                             <Button Command="{Binding SaveCommand, Mode=OneWay}" IsEnabled="{Binding IsEdited, Mode=OneWay}">
@@ -85,8 +85,8 @@
                                         </DataTemplate>
                                     </DataGridTemplateColumn.CellTemplate>
                                 </DataGridTemplateColumn>
-                                <DataGridTextColumn Header="Line" Width="60" Binding="{Binding Line}"/>
-                                <DataGridTextColumn Header="Path" Width="350" Binding="{Binding FileName}"/>
+                                <DataGridTextColumn Header="Строка" Width="60" Binding="{Binding Line}"/>
+                                <DataGridTextColumn Header="Путь" Width="350" Binding="{Binding FileName}"/>
                             </DataGrid.Columns>
                         </DataGrid>
                     </Grid>

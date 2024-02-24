@@ -6,7 +6,7 @@ namespace TranslateEnRuKoikatsu;
 
 public class WordAndFileViewModel : ViewModelBase
 {
-    private readonly string _ruOld;
+    private string _ruOld;
     private string _ja;
     private string _ru;
     private string _fileName;
@@ -58,6 +58,7 @@ public class WordAndFileViewModel : ViewModelBase
     {
         string[] arrLine = File.ReadAllLines(FileName);
         arrLine[Line-1] = $"{Ja}={Ru}";
+        _ruOld = Ru;
         File.WriteAllLines(FileName, arrLine);
     }
 }
